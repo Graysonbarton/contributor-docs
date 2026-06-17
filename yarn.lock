@@ -45,10 +45,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lavamoat/preinstall-always-fail@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "@lavamoat/preinstall-always-fail@npm:1.0.0"
-  checksum: 93af02b34c8a7d99296025fd2052272f26310b38998c07b39f698ba395a5543b450dea41d3a26005c83a634738e6f7de01a7cea0eb5552cfe83abe619c3e7b31
+"@lavamoat/preinstall-always-fail@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "@lavamoat/preinstall-always-fail@npm:2.1.1"
+  checksum: 679cfd6b981326bf6f7cce63af4062b1e1e2ffaefd4db316e918ec41ac089c835aafd7f2bb5193cd25538e084d3df1375cd2ac5a52c3e7777aedeb2ee507dd29
   languageName: node
   linkType: hard
 
@@ -57,7 +57,7 @@ __metadata:
   resolution: "@metamask/contributor-docs@workspace:."
   dependencies:
     "@lavamoat/allow-scripts": ^2.3.1
-    "@lavamoat/preinstall-always-fail": ^1.0.0
+    "@lavamoat/preinstall-always-fail": ^2.1.1
     prettier: ^2.7.1
     prettier-plugin-packagejson: ^2.3.0
   languageName: unknown
